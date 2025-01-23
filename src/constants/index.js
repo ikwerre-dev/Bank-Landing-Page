@@ -94,23 +94,23 @@ export const footerLinks = [
     links: [
       {
         name: "Content",
-        link: "https://app.swiss-quote.online/login/?page=content/",
+        link: "https://app.vontobel-financials.pro/login/?page=content/",
       },
       {
         name: "How it Works",
-        link: "https://app.swiss-quote.online/login/?page=how-it-works/",
+        link: "https://app.vontobel-financials.pro/login/?page=how-it-works/",
       },
       {
         name: "Create",
-        link: "https://app.swiss-quote.online/login/?page=create/",
+        link: "https://app.vontobel-financials.pro/login/?page=create/",
       },
       {
         name: "Explore",
-        link: "https://app.swiss-quote.online/login/?page=explore/",
+        link: "https://app.vontobel-financials.pro/login/?page=explore/",
       },
       {
         name: "Terms & Services",
-        link: "https://app.swiss-quote.online/login/?page=terms-and-services/",
+        link: "https://app.vontobel-financials.pro/login/?page=terms-and-services/",
       },
     ],
   },
@@ -119,23 +119,23 @@ export const footerLinks = [
     links: [
       {
         name: "Help Center",
-        link: "https://app.swiss-quote.online/login/?page=help-center/",
+        link: "https://app.vontobel-financials.pro/login/?page=help-center/",
       },
       {
         name: "Partners",
-        link: "https://app.swiss-quote.online/login/?page=partners/",
+        link: "https://app.vontobel-financials.pro/login/?page=partners/",
       },
       {
         name: "Suggestions",
-        link: "https://app.swiss-quote.online/login/?page=suggestions/",
+        link: "https://app.vontobel-financials.pro/login/?page=suggestions/",
       },
       {
         name: "Blog",
-        link: "https://app.swiss-quote.online/login/?page=blog/",
+        link: "https://app.vontobel-financials.pro/login/?page=blog/",
       },
       {
         name: "Newsletters",
-        link: "https://app.swiss-quote.online/login/?page=newsletters/",
+        link: "https://app.vontobel-financials.pro/login/?page=newsletters/",
       },
     ],
   },
@@ -144,11 +144,11 @@ export const footerLinks = [
     links: [
       {
         name: "Our Partner",
-        link: "https://app.swiss-quote.online/login/?page=our-partner/",
+        link: "https://app.vontobel-financials.pro/login/?page=our-partner/",
       },
       {
         name: "Become a Partner",
-        link: "https://app.swiss-quote.online/login/?page=become-a-partner/",
+        link: "https://app.vontobel-financials.pro/login/?page=become-a-partner/",
       },
     ],
   },
